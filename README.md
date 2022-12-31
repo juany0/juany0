@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juany0&label=Profile%20views&color=0e75b6&style=flat" alt="juany0" /> </p>
 
-- 🌱 I’m currently learning **I still don't have professional experience as a front end developer but I can say that I am constantly expanding my knowledge of technologies that I use every day and studying to learn new ones, I consider myself a person with a certain facility to understand new languages and frameworks.**
+- 🌱 I still don't have professional experience as a front end developer but I can say that I am constantly expanding my knowledge of technologies that I use every day and studying to learn new ones, I consider myself a person with a certain facility to understand new languages and frameworks.**
 
 - 📫 How to reach me **jfuicacollazzi@gmail.com**
 
