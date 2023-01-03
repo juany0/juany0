@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and other frameworks and libraries.**
 
-- 👨‍💻 All of my projects are available at [*I'm currently building my portfolio.*](*I'm currently building my portfolio.*)
+- 👨‍💻 All of my projects are available at... *I'm currently building my portfolio.*
 
 - 📫 How to reach me **jfuicacollazzi@gmail.com**
 
